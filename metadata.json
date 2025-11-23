@@ -1,0 +1,8 @@
+{
+  "name": "OmniGen AI Suite",
+  "description": "A comprehensive AI suite integrating Gemini 2.5 and 3.0 models for text, image, video, and audio generation and analysis.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
